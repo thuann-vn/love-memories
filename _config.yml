@@ -1,18 +1,18 @@
 #page title
-page_title                                : Haney                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Love Memories                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1483625590                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps/details?id=thuanguyen.haney.android                                          # Enter Google Play Store URL.
+playstore_link                            : https://play.google.com/store/apps/details?id=thuanguyen.love.android                                          # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : https://thuann-vn.github.io/haney/assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Haney                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free - In-app purchase                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Manage your online business easier!
+app_icon                                  : https://thuann-vn.github.io/love-memories/assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Love Memories                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Keep your love burning!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -33,38 +33,6 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
-  - title                                 : Orders
-    description                           : Manage your orders easier!
-    fontawesome_icon_name                 : chart-area
-    
-  - title                                 : Products
-    description                           : Overview your product's sale.
-    fontawesome_icon_name                 : shopping-cart
-
-  - title                                 : Customers
-    description                           : Connect your customers.
-    fontawesome_icon_name                 : user-clock
-
-  - title                                 : Secure
-    description                           : Protect your data by passcode.
-    fontawesome_icon_name                 : shield-alt
-
-  - title                                 : Backup
-    description                           : Backup your data automatically and real-time.
-    fontawesome_icon_name                 : database
-  
-  - title                                 : Multiple devices supported
-    description                           : Syncs your data between devices and platform.
-    fontawesome_icon_name                 : mobile
-
-  - title                                 : Support
-    description                           : Fre support 24/7.
-    fontawesome_icon_name                 : life-ring
-
-  - title                                 : More and more!
-    description                           : Follow and support us.
-    fontawesome_icon_name                 : app-store-ios
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
